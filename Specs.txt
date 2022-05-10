@@ -8,6 +8,7 @@ Agree on the purpose of the Web Site
 
    -the people who might look at such a web site
 	-potential customers who try to find out opening times or to find out the location of the park
+	-potential rivals
 
    -the reasons that they would be looking at the web site
 	-again to get information about the theme park, like opening times, ticket prices, parking availabilities, how to get there...
