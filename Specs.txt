@@ -1,0 +1,81 @@
+Agree on the purpose of the Web Site
+   -Reasons for a theme park operator to have a web site
+	-to be seen on the web (publicity purposes)
+	-to be found on the web (if people google for theme parks, they should find it)
+	-to provide information conventienly (if potential customers can't find out informations these days about a theme park, they probably won't go there because they are too lazy to find call them or just go there and find out how the park is and if they are open)
+	-to provide an official web page on a proper domain before other people do so and open fake websites
+	-open a webshop and sell stuff online to generate more revenue
+
+   -the people who might look at such a web site
+	-potential customers who try to find out opening times or to find out the location of the park
+
+   -the reasons that they would be looking at the web site
+	-again to get information about the theme park, like opening times, ticket prices, parking availabilities, how to get there...
+	
+
+Research theme park web sites
+   -five different web sites of theme parks
+	-Alton Towers, Staffordshire: https://www.altontowers.com
+	  Type of information you find
+		-
+	  Structure that sites have to help people find that information
+		-
+	  Good
+		-
+	  Bad
+		-
+	-Thorpe Park, Surrey: https://www.thorpepark.com
+	  Type of information you find
+		-
+	  Structure that sites have to help people find that information
+		-
+	  Good
+		-
+	  Bad
+		-
+	-Drayton Manor Park, Staffordshire: https://www.draytonmanor.co.uk
+	  Type of information you find
+		-
+	  Structure that sites have to help people find that information
+		-
+	  Good
+		-
+	  Bad
+		-
+	-Legoland Windsor, Berkshire: https://www.legoland.co.uk
+	  Type of information you find
+		-
+	  Structure that sites have to help people find that information
+		-
+	  Good
+		-
+	  Bad
+		-
+	-Chessington World of Adventures, Greater London: https://www.chessington.com
+	  Type of information you find
+		-
+	  Structure that sites have to help people find that information
+		-
+	  Good
+		-
+	  Bad
+		-
+
+
+Agree on the content for the web site
+   -Group of our theme park 
+   -types of attractions that you will have for the different visitors that you expect to come to your theme park
+   -Think of any other services that you will provide to visitors (for example food, access to money and medical help)
+   -Think of any other information that people looking at your web site will want to know before they come and visit your theme park
+
+
+Agree on the structure of the web site
+   -structure of our web site, with the aim of designing a web site with 3 pages
+   -What information will appear on the main page, and what will appear on the other two pages?
+   -Think about how you might present the content, and whether you will have semantic parts such as asides or pop-up windows
+
+
+Design the wireframes for the web site
+   -Produce a set of wireframes for the site, showing the concepts for both a wide screen and small screen
+   -These can either be drawn by hand or produced using a tool such as PowerPoint or a graphics package such as Illustrator. Avoid painting or photo-editing software such as Paint or Photoshop as designs produced in this way are difficult to edit. Ensure that the designs are clear and easy to read.
+
