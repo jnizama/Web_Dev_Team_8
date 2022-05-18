@@ -64,10 +64,43 @@ Research theme park web sites
 
 
 Agree on the content for the web site
-   -Group of our theme park 
+   -theme of the theme park
+	-Historical theme park with 5 different culture subsections within the park (European, Mexican, Chinese, American, African)
+	
    -types of attractions that you will have for the different visitors that you expect to come to your theme park
+	-Waterpark with a water slide
+	-Freefall tower
+	-Roller Coaster
+	-Carousel
+	-Ferris wheel
+	-Bumper cars
+	-Waterslide
+	-Clowns, acrobats, Magicians
+	-Lion-tamer
+	-Trapeze
+	-Juggling
+
    -Think of any other services that you will provide to visitors (for example food, access to money and medical help)
+	-Shuttle to the next airport or train station
+	-Restaurants & Shops
+	-Atm (access to money)
+	-pharmacy
+	-place for parents to leave their children
+	-Sleeping facilities / Hotels
+	-Special events
+
    -Think of any other information that people looking at your web site will want to know before they come and visit your theme park
+	-how much is the admission?
+	-how about the opening hours?
+	-accessibility
+	-where is the park located?
+	-which ways of transportation to the park are there?
+	-how is the parking situation?
+	-information about the coronavirus
+	-FAQ
+	-Special events
+	-Hotels nearby
+	-Job openings
 
 
 Agree on the structure of the web site
