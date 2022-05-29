@@ -76,13 +76,18 @@ Research theme park web sites
 		
 	-Legoland Windsor, Berkshire: https://www.legoland.co.uk
 	  Type of information you find
-		-
-	  Structure that sites have to help people find that information
-		-
-	  Good
-		-
-	  Bad
-		-
+		- Legoland is a windsor resort when you can enjoy with your family of adventures, diversions.
+		
+	  Structure that sites have to help people find that information: Its structure help the user find the best way of enjoy with your family. 
+		- It has a "Accept all Cookies" announce
+		- It has a good carrousel very nice
+	  Good	- You can buy tickets to day, short and annual passes ONLINE
+		- You can enjoy with your friends
+		- You can buy your "Merlin Annual Pass"
+
+	  Bad   - It has many colours that could make hard to a basic user.
+		- There is not a map localization when you can find them easy
+
 	-Chessington World of Adventures, Greater London: https://www.chessington.com
 	  Type of information you find
 		-
