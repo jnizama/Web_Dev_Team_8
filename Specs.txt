@@ -18,31 +18,62 @@ Research theme park web sites
    -five different web sites of theme parks
 	-Alton Towers, Staffordshire: https://www.altontowers.com
 	  Type of information you find
-		-
+		- Promotion of Park of diversions with deadline to buy with discount
+		- Annual Passes which you can visit many times
+		- Direct payment and avility to book now
+		- Security using HTTPS (certificate issued by Amazon
+		- Security Payment (VISA, Mastercard, Paypal)
+		- Jobs (you can apply for new open jobs)
+		- Good carousel of mainly events and promotions.
+		
 	  Structure that sites have to help people find that information
-		-
+		- Jobs is good way to show that the theme park is very seriously
 	  Good
-		-
+		- Payment on line is very valuable
+		- You can choose the dates best for you
+		- The menu is very order by categories
+		- Footer pages is standar and uniform
 	  Bad
-		-
+		- I can see that there are many colors, it could cause disconform with others users customized of use uniform colors.
+		- There is not an input searching to find index themes park
+		- I can see a map to find them easy.
+		
 	-Thorpe Park, Surrey: https://www.thorpepark.com
 	  Type of information you find
-		-
+		- Diversion on UK parking, you not only enjoy about park diversions but about food and spend time with family. 
+		- You can stay on night, enjoy as a hotel including breakfast.
+		- There is spectaculus as Carnival, Oktoberfet, and so on.
+		- It has a big park of diversions as Colossus, Rumba Rapis, SAW-The ride. etc.
+		- Exists events as "Fright Nights"
+
+		
 	  Structure that sites have to help people find that information
-		-
-	  Good
-		-
+		- Has annual pass as well.
+	  Good	- You can pay on line (Visa, Mastercard, etc)
+	  
 	  Bad
-		-
+		- There is not a SiteMap very good definided
+		- I can see a map to find them easy.
+		
 	-Drayton Manor Park, Staffordshire: https://www.draytonmanor.co.uk
 	  Type of information you find
-		-
+		- Here we can find a manor Resort when you can buy your tickets online and enjoy of Rides with your familiy. 
+		- It has a zoo when your can expor our 15 acre 
+		- Looks very special and security place with high vigilance.
 	  Structure that sites have to help people find that information
-		-
+		- Good design with a top bar menu
+		- Ready for kids and adults
+		- Zoo very big to enjoy with family
 	  Good
-		-
-	  Bad
-		-
+		- Time schedule easy to find (botton of the page)
+		- You has a input searcher to find content of the page.
+		- Has a newsletter when you can receive good information
+		- The page is very responsibe even in the page of payment
+		
+	  Bad   - it doesn't a carrousel to show more promotions of announcement
+		- The load of the page is more slow
+		- Not easy to find hotels
+		
 	-Legoland Windsor, Berkshire: https://www.legoland.co.uk
 	  Type of information you find
 		-
